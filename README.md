@@ -16,7 +16,8 @@
 * 克隆本项目代码到本地
 
 ```
-
+git clone https://gitee.com/SAnBlog/autohot.git
+cd autohot
 ```
 
 * 打开微信开发者工具；
