@@ -27,9 +27,9 @@ cd autohot
 
 界面简陋，请多包涵。
 
-![](/imgage/1.png)
-![](/imgage/2.png)
-![](/imgage/3.png)
+![](https://gitee.com/SAnBlog/autohot/blob/master/image/1.png)
+![](https://gitee.com/SAnBlog/autohot/blob/master/image/2.png)
+![](https://gitee.com/SAnBlog/autohot/blob/master/image/3.png)
 
 ## 资源
 
