@@ -26,11 +26,9 @@ cd autohot
 ## 预览
 
 界面简陋，请多包涵。
-
-![](https://gitee.com/SAnBlog/autohot/blob/master/image/1.png)
-![](https://gitee.com/SAnBlog/autohot/blob/master/image/2.png)
-![](https://gitee.com/SAnBlog/autohot/blob/master/image/3.png)
-
+![1](https://gitee.com/SAnBlog/autohot/blob/master/image/1.png "在这里输入图片标题")
+![1](https://gitee.com/SAnBlog/autohot/blob/master/image/2.png "在这里输入图片标题")
+![1](https://gitee.com/SAnBlog/autohot/blob/master/image/3.png "在这里输入图片标题")
 ## 资源
 
 * [小程序开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)
