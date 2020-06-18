@@ -1,0 +1,12 @@
+<view>
+      <view class="hotwords" wx:for="{{hotwords}}">
+        <button class="hotwordsBT" data-name="{{item}}" type="primary" bindtap="switchData">{{item}}</button>
+      </view>
+        <view class="card" wx:for="{{sourceData}}" wx:for-index="itemIndex">
+            <view><text class="title">{{ item.title }}</text></view>
+            <view><text class="tag">来源 {{ item.name }}</text></view>
+        <view  wx:if="{{item.img.length>0}}">
+             <image src="{{url + item.img}}" background-size="cover"></image>   
+        </view>
+        </view>
+</view>
